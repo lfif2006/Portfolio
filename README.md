@@ -1,11 +1,11 @@
 <h1>Портфолио</h1>
    <h2>Основная информация</h2>
-   <h4 align="center">
-  <img src="images/resume.png" width="800"/>
-   </h4>
-    <h4 align="center">
-  <img src="images/resume2.png" width="800"/>
-   </h4>
+  
+  <img src="images/resume.png" width="600"/>
+   
+    
+  <img src="images/resume2.png" width="600"/>
+
 
    
   <h2>🎨 Дизайн</h2>
