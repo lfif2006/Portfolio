@@ -1,7 +1,10 @@
 <h1>Портфолио</h1>
    <h2>Основная информация</h2>
    <h4 align="center">
-  <img src="images/startStraniza.png" width="1000"/>
+  <img src="images/resume.png" width="1000"/>
+   </h4>
+    <h4 align="center">
+  <img src="images/resume2.png" width="1000"/>
    </h4>
 
    
