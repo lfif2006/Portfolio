@@ -11,14 +11,14 @@
 
   <h3>Дизайн</h3>
   <ul>
-    <li><a href="https://github.com/lfif2006/Festival-website-design">Проект 2</a> - Создания дизайна для веб-сайта фестивалей уличной еды</li>
+    <li><a href="https://github.com/lfif2006/Festival-website-design">Проект 1</a> - Создания дизайна для веб-сайта фестивалей уличной еды</li>
      Описание: Макет сайта фестивалей уличной еды в Figma, разработанный для учебной практики
   </ul>
 
 
   <h3>Гейм-разработка</h3>
   <ul>
-    <li><a href="https://github.com/lfif2006/The-game-is-a-visual-novel ">Проект 1</a> - Мобильная игра Акатуй</li>
+    <li><a href="https://github.com/lfif2006/The-game-is-a-visual-novel ">Проект 2</a> - Мобильная игра Акатуй</li>
      Описание: Образовательная игра в жанре визуальная новелла, разрабатываемая для дипломной работы
   </ul>
 
