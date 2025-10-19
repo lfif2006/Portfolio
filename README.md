@@ -4,7 +4,7 @@
   <img src="images/resume1.jpg" width="600"/>
    
     
-  <img src="images/resume2.png" width="600"/>
+  <img src="images/resume2.jpg" width="600"/>
 
 
   <h2> Проекты</h2>
