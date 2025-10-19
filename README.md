@@ -1,7 +1,7 @@
 <h1 align="center">Портфолио</h1>
-   <h2>Основная информация</h2>
+   <h2 align="center">Основная информация</h2>
   
-  <img src="images/resume1.jpg" width="600"/>
+  <h4 align="center"><img src="images/resume1.jpg" width="600"/></h4>
    
     
   <img src="images/resume2.jpg" width="600"/>
